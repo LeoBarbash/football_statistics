@@ -1,1 +1,2 @@
-# soccer_statistics
+# football_statistics
+The repository contains a script defining tournament results based on data from matches between football clubs in different leagues. Also, the script considers different tie-break rules and has a user interface with some options, only built-in classes and functions were used. The whole project was done by Lev Barbash during his 1st year of the HSE University, course: "Programming".
